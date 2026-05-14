@@ -1,6 +1,9 @@
 # 💻 Computer Programming Lab Repository
 
 **Welcome to my C++ Lab Repository 🚀**  
+Contains lab works, reports, assignments, and programs from my Electrical Engineering (Power) studies.
+
+---
 
 ## 📚 **Course Info**
 - **Course:** Computer Programming Lab  
@@ -8,10 +11,15 @@
 - **Institute:** UET Nowshera Campus  
 - **Language:** C++  
 
+---
+
 ## 📁 **Contents**
 - 🧪 Lab Works  
 - 📄 Lab Reports  
-- 📝 Assignments    
+- 📝 Assignments  
+- 💻 C++ Programs  
+
+---
 
 ## 🎯 **Goal**
 - Learn C++ programming  
@@ -19,9 +27,14 @@
 - Maintain academic record  
 - Track progress  
 
+---
+
 ## 🛠️ **Tools**
 C++, Code::Blocks, Dev C++
+
+---
 
 ## 👨‍💻 **Author**
 **Talha Ali**  
 Electrical Engineering (Power)  
+UET Nowshera Campus  
