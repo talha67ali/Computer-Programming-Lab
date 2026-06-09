@@ -9,7 +9,8 @@ Contains lab works, reports, assignments, and programs from my Electrical Engine
 - **Course:** Computer Programming Lab  
 - **Program:** BSc Electrical Engineering (Power)  
 - **Institute:** UET Nowshera Campus  
-- **Language:** C++  
+- **Language:** C++ 
+- **Instructor:** Sir Rizwan
 
 ---
 
